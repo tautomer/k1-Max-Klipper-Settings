@@ -60,8 +60,8 @@ enabled = True
 service = mjpegstreamer
 target_fps = 15
 target_fps_idle = 5
-stream_url = http://localhost:8080/?action=stream
-snapshot_url = http://localhost:8080/?action=snapshot
+stream_url = http://K1Max-5765.lan:8080/?action=stream
+snapshot_url = http://K1Max-5765.lan/?action=snapshot
 flip_horizontal = False
 flip_vertical = False
 rotation = 0
